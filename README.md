@@ -27,11 +27,11 @@ Um chatbot que fornece informações sobre séries e programas de TV usando dado
 
 # Você pode fazer perguntas como:
 
-"Mostre informações sobre [título]"
-"Quais séries são dirigidas por [diretor]?"
-"Quais títulos foram lançados em [ano]?"
-"Mostre títulos do gênero [gênero]"
-"Mostrar estatísticas gerais"
+- "Mostre informações sobre [título]"
+- "Quais séries são dirigidas por [diretor]?"
+- "Quais títulos foram lançados em [ano]?"
+- "Mostre títulos do gênero [gênero]"
+- "Mostrar estatísticas gerais"
 
 ## Base de Dados
 A base de dados é baixada automaticamente na primeira execução. Ela contém informações sobre séries e programas de TV do IMDb.
